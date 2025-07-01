@@ -1,12 +1,12 @@
 body {
     text-align: center;
-    color: rgb(43, 85, 85);
-    background-color: rgb(220, 249, 249);
+    color: rgb(60, 3, 35);
+    background-color: rgb(244, 226, 236);
     padding: 0;
 }
 header{
-    background-color: rgba(72, 209, 205, 0.479);
-    color: rgb(18, 115, 110);
+    background-color: rgba(244, 106, 193, 0.637);
+    color: rgb(29, 5, 18);
     padding: 20px;
     margin-bottom: 50px;
 }
@@ -20,7 +20,7 @@ img{
 }
 
 section {
-    background-color:rgb(99, 236, 231);
+    background-color:rgb(250, 187, 224);
     border: 1px solid slategray;
     margin: 10px auto;
     padding: 15px;
@@ -31,7 +31,7 @@ section {
 
 section img {
     max-width: 100%;
-    border-radius: 4px;
+    border-radius: 2px;
 }
 
 section h2 {
@@ -43,5 +43,5 @@ footer{
     margin-top: 40px;
     padding: 10px 0;
     font-size: 12px;
-    background-color: rgb(149, 240, 231);
+    background-color: rgb(244, 106, 193, 0.637);
 }
